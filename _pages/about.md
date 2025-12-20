@@ -26,6 +26,14 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
+# 👋🏼 Openings
+**2026** 
+- **拟接收辅导博士研究生1~2名、硕士研究生3名，研究方向集中在：大模型安全、联邦安全、大数据安全等。**
+
+**长期有效** 
+- **科研助理**：非常欢迎对AI安全、数据安全有兴趣的**研究生**、**本科生**同学加入到我们的实验室！
+- **优先但不限于**：计算机、网络安全、软件工程等学科背景同学。
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,7 +97,26 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# 💼 Services
+
+### Conference Reviewer
+
+* IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
+* IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
+* European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)
+* International Conference on Robotics and Automation [(ICRA)]()
+* International Conference on Intelligent Robots and Systems [(IROS)]()
+
+### Journal Reviewer
+
+* IEEE Transactions on Pattern Aanlysis and Machine Intelligence [(TPAMI)]()
+* IEEE Transactions on Image Processing [(TIP)]()
+* IEEE Transactions on Multimedia [(TMM)]()
+* IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+* IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+* Pattern Reocognition [(PR)]()
+
+<!--#，#，# 📖 Educat
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -98,4 +125,4 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
