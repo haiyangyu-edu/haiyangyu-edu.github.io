@@ -55,15 +55,13 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ACM_TOMM-2025-blue?style=flat-square"></a>	Y. Ding^, B. Yao^, Y. Liu^, H. Chen, D. Ding, Z. Yang, Y. Li and **<u>Yongjian Deng📧</u>**, &quot;**EvSAM: Segment Anything Model with Event-based Assistance**&quot;. In *ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)*.-->
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TMM-2026-blue?style=flat-square"></a>	Q. Zhou, J. Hou, M. Yang, **<u>Yongjian Deng</u>**, Y. Li and J. Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *IEEE Transactions on Multimedia (IEEE TMM)*.
-
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Yurun Chen^, Shen Su, Jian Su, Yuwen Chen, Zhen Yang, DART: Distributed Zero Knowledge Data Auditing with Retrievability for Blockchain-Based Decentralized Storage Networks[J]. *IEEE Transactions on Information Forensics and Security (TIFS)*, 19, 6896-6909, 2025. *CCF-A, SCI-Q1 Top，IF = 8.0*
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TDSC-2025-blue?style=flat-square"></a> Tianyou Zhang^, **<u>Haiyang Yu📧</u>**, Zhen Yang, Yuwen Chen, Shui Yu. LaVFL: Efficient Verifiable Federated Learning for Large Language Models[J]. *IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2025. *CCF-A, SCI-Q1 Top，IF = 7.5*
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TMC-2025-blue?style=flat-square"></a> Xiaohu Shan^, **<u>Haiyang Yu📧</u>**, Yurun Chen, Yuwen Chen, Zhen Yang, S2A-P2FS: Secure Storage Auditing with Privacy-Preserving Flexible Data Sharing in Cloud-Assisted Industrial IoT [J]. *IEEE Transactions on Mobile Computing (TMC)*, 2025. *CCF-A, SCI-Q1 Top，IF = 9.2*
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TC-2025-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Hui Zhang^, Zhen Yang, Yuwen Chen, Huan Liu, Efficient and Secure Storage Verification in Cloud-Assisted Industrial IoT Networks[J]. *IEEE Transactions on Computers (TC)*, 2025. *CCF-A, IF= 3.8*
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a>
 
