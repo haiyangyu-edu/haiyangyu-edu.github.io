@@ -79,7 +79,7 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TSC-2024-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Yurun Chen^, Zhen Yang, Yuwen Chen, Shui Yu, EDCOMA: Enabling Efficient Double Compressed Auditing for Blockchain-Based Decentralized Storage[J]. *IEEE Transactions on Services Computing (TSC)*, 2024. *CCF-A, SCI-Q1, IF=5.8*
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Runtong Xu^, Hui Zhang^, Zhen Yang, Huan Liu, EV-FL: Efficient Verifiable Federated Learning with Weighted Aggregation for Industrial IoT Networks[J]. *IEEE/ACM Transactions on Networking (TON)*, 32(2), 1723 – 1737, 2024. *CCF-A*
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TON-2024-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Runtong Xu^, Hui Zhang^, Zhen Yang, Huan Liu, EV-FL: Efficient Verifiable Federated Learning with Weighted Aggregation for Industrial IoT Networks[J]. *IEEE/ACM Transactions on Networking (TON)*, 32(2), 1723 – 1737, 2024. *CCF-A*
 
 
 <!-- % -----------2025------------- -->
@@ -99,7 +99,10 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 # 💼 Services
 
-### Conference Reviewer
+### Journal Editor
+
+
+### Conference PC/Reviewer
 
 * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
 * IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
@@ -116,13 +119,18 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 * IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 * Pattern Reocognition [(PR)]()
 
-<!--#，#，# 📖 Educat
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+
+
+
+
+
+
+
+
+<!--
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
