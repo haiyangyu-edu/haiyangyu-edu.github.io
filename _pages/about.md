@@ -69,9 +69,9 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2024-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Hui Zhang^, Zhen Yang, Shui Yu, Edasvic: Enabling Efficient and Dynamic Storage Verification for Clouds of Industrial Internet Platforms[J]. *IEEE Transactions on Information Forensics and Security (TIFS)*, 19, 6896-6909, 2024. *CCF-A, SCI-Q1 Top，IF = 8.0*
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TSC-2024-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Yurun Chen^, Zhen Yang, Yuwen Chen, Shui Yu, EDCOMA: Enabling Efficient Double Compressed Auditing for Blockchain-Based Decentralized Storage[J]. *IEEE Transactions on Services Computing (TSC)*, 2024. *CCF-A, SCI-Q1, IF=5.8*
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Runtong Xu^, Hui Zhang^, Zhen Yang, Huan Liu, EV-FL: Efficient Verifiable Federated Learning with Weighted Aggregation for Industrial IoT Networks[J]. *IEEE/ACM Transactions on Networking (TON)*, 32(2), 1723 – 1737, 2024. *CCF-A*
 
 
 <!-- % -----------2025------------- -->
@@ -79,6 +79,11 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+# 🎖 Awards of Students
+近年来，指导学生多次获得国家奖学金（张天佑、张博、陈雨润、王熙贵等）、小米奖学金（张天佑、陈雨润）、北京地区优秀毕业生（陈雨润）、北京工业大学优秀毕业生（陈雨润）、百佳毕业生（陈雨润）、优秀硕士学位论文（张辉、陈雨润、王熙贵、单小虎等）、IEEE IC-NIDC国际会议最佳论文奖、CCF大学生区块链技术与创新应用大赛（全国前15%）等奖项。
+
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
