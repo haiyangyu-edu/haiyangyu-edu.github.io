@@ -63,11 +63,11 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TC-2025-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Hui Zhang^, Zhen Yang, Yuwen Chen, Huan Liu, Efficient and Secure Storage Verification in Cloud-Assisted Industrial IoT Networks[J]. *IEEE Transactions on Computers (TC)*, 2025. *CCF-A, IF= 3.8*
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_IWQoS-2025-blue?style=flat-square"></a> Bo Zhang^, **<u>Haiyang Yu📧</u>**, Yuwen Chen, Zhen Yang,MPC-FLC: Accelerating Private Inference in MPC through Full Layer Compression[C]. *IEEE/ACM International Symposium on Quality of Service (IWQoS)*, 2025. *CCF-B*
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TMC-2024-blue?style=flat-square"></a> Xigui Wang^, **<u>Haiyang Yu📧</u>**, Yuwen Chen, Richard O. Sinnott, Zhen Yang. PrVFL: Pruning-Aware Verifiable Federated Learning for Heterogeneous Edge Computing[J]. *IEEE Transactions on Mobile Computing (TMC)*, 2024. *CCF-A, SCI-Q1 Top, IF=9.2*
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2024-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Hui Zhang^, Zhen Yang, Shui Yu, Edasvic: Enabling Efficient and Dynamic Storage Verification for Clouds of Industrial Internet Platforms[J]. *IEEE Transactions on Information Forensics and Security (TIFS)*, 19, 6896-6909, 2024. *CCF-A, SCI-Q1 Top，IF = 8.0*
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a>
 
