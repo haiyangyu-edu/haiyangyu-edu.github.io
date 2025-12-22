@@ -93,9 +93,9 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 近年来，指导学生多次获得国家奖学金（张天佑、张博、陈雨润、王熙贵等）、小米奖学金（张天佑、陈雨润）、北京地区优秀毕业生（陈雨润）、北京工业大学优秀毕业生（陈雨润）、百佳毕业生（陈雨润）、优秀硕士学位论文（张辉、陈雨润、王熙贵、单小虎等）、IEEE IC-NIDC国际会议最佳论文奖、CCF大学生区块链技术与创新应用大赛（全国前15%）等奖项。
 
 
-# 🎖 Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- # 🎖 Honors and Awards
+ - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 💼 Services
 
