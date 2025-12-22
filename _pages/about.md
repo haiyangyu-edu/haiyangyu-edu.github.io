@@ -106,17 +106,17 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 ### Conference PC/Reviewer
 
-ICML
-NIPS
+<!-- * IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings) -->
+
+
 ICLR
 AAAI
 WWW
 MM
 IJCAI
 
-* IEEE/CVF Conference on Computer Vision and Pattern Recognition [(CVPR)](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)
-* IEEE/CVF International Conference on Computer Vision [(ICCV)](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)
-* European Conference on Computer Vision [(ECCV)](https://www.ecva.net/index.php#conferences)
+* International Conference on Machine Learning (ICML)
+* Conference on Neural Information Processing Systems (NeurIPS)
 * International Conference on Robotics and Automation [(ICRA)]()
 * International Conference on Intelligent Robots and Systems [(IROS)]()
 
