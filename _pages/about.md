@@ -118,20 +118,13 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
   
 ### Journal Reviewer
 
-tifs
-tdsc
-ton
-tkde
-tmc
-tii
-
-* IEEE Transactions on Pattern Aanlysis and Machine Intelligence [(TPAMI)]()
-* IEEE Transactions on Image Processing [(TIP)]()
-* IEEE Transactions on Multimedia [(TMM)]()
-* IEEE Transactions on Circuits and Systems for Video Technology [(TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
-* IEEE Transactions on Neural Networks and Learning Systems [(TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
-* Pattern Reocognition [(PR)]()
-
+* IEEE Transactions on Information Forensics and Security (TIFS)
+* IEEE Transactions on Dependable and Secure Computing	 (TDSC)
+* IEEE/ACM Transactions on Networking	 (TON)
+* IEEE Transactions on Knowledge and Data Engineering	 (TKDE)
+* IEEE Transactions on Mobile Computing	 (TMC)
+* IEEE Transactions on Industrial Informatics	 (TII)
+* Information Fusion
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=400&t=n&d=oABR0nOA2tRoY_m6lL__HUjr-WAhdWoBax55Hk3rUH4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
