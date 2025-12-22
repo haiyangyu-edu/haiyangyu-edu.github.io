@@ -99,10 +99,10 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 # 💼 Services
 
-### Journal Editor Board
-Scientific report
-bcra 
-wangan xuebao 
+### Editor Board
+* Scientific Reports
+* Blockchain: Research and Applications 
+* Journal Of Cybersecurity 
 
 ### Conference PC/Reviewer
 
