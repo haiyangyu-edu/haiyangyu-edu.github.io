@@ -20,7 +20,7 @@ redirect_from:
 Prof. Yu is currently working at the School of Computer Science, Beijing University of Technology. His research focuses on artificial intelligence and data security. He received his Ph.D. from Beijing University of Technology in 2019, including a joint Ph.D. training period at the University of Melbourne from 2017 to 2018. He earned his Bachelor’s degree in Computer Science and Technology from Beijing University of Technology in 2013. He currently serves as a registered expert in ISO international standard working groups, an executive committee member of the CCF Blockchain Technical Committee, a member of the Big Data Security and Privacy Computing Technical Committee of the Chinese Information Processing Society of China, and a member of the CCF YOCSEF Headquarters Committee. He is also a youth editorial board member of the Journal of Cybersecurity Science and Blockchain: Research and Applications. He serves as a reviewer/PC member for several top-tier international journals and conferences, including IEEE TIFS, IEEE TDSC, IEEE/ACM TON, IEEE TKDE, IEEE TMC, NeurIPS, ICML, and ICLR.
 
 
-于海阳，副研究员，硕士生导师，任职于北京工业大学计算机学院，专攻人工智能和数据安全等领域研究。2019年毕业于北京工业大学获博士学位，2017年至2018年在墨尔本大学进行博士联合培养，2013年毕业于北京工业大学计算机科学与技术专业获学士学位。现任ISO国际标准工作组注册专家，CCF区块链专委会执行委员，中文信息学会大数据安全与隐私计算专委委员，CCF YOCSEF总部委员，网络空间安全科学学报和Blockchain: Research and Applications期刊青年编委会委员。担任TIFS、TDSC、TON、TKDE、TMC、NIPS、ICML、ICLR、AAAI等多个国际顶级期刊和会议的审稿人和程序委员会委员。近五年，以第一作者/通讯作者累计发表CCF A类、IEEE汇刊在内的高水平期刊会议论文30余篇，包括IEEE TDSC、IEEE TIFS、IEEE TC、IEEE TMC、IEEE TON、IEEE TSC、IWQoS等。
+于海阳，副研究员，硕士生导师，任职于北京工业大学计算机学院，专攻人工智能和数据安全等领域研究。2019年毕业于北京工业大学获博士学位，2017年至2018年在墨尔本大学进行博士联合培养，2013年毕业于北京工业大学计算机科学与技术专业获学士学位。现任ISO国际标准工作组注册专家，CCF网络与系统安全专委会执行委员，CCF区块链专委会执行委员，中文信息学会大数据安全与隐私计算专委委员，CCF YOCSEF总部委员，网络空间安全科学学报和Blockchain: Research and Applications期刊青年编委会委员。担任TIFS、TDSC、TON、TKDE、TMC、NIPS、ICML、ICLR、AAAI等多个国际顶级期刊和会议的审稿人和程序委员会委员。近五年，以第一作者/通讯作者累计发表CCF A类、IEEE汇刊在内的高水平期刊会议论文30余篇，包括IEEE TDSC、IEEE TIFS、IEEE TC、IEEE TMC、IEEE TON、IEEE TSC、IWQoS等。
 
 # 🎉 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -90,12 +90,14 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 
 # 🎖 Awards of Students
-近年来，指导学生多次获得国家奖学金（张天佑、张博、陈雨润、王熙贵等）、小米奖学金（张天佑、陈雨润）、北京地区优秀毕业生（陈雨润）、北京工业大学优秀毕业生（陈雨润）、百佳毕业生（陈雨润）、优秀硕士学位论文（张辉、陈雨润、王熙贵、单小虎等）、IEEE IC-NIDC国际会议最佳论文奖、CCF大学生区块链技术与创新应用大赛（全国前15%）等奖项。
+近年来，指导学生多次获得国家奖学金（张天佑、张博、陈雨润、王熙贵等）、小米特等奖学金（张天佑）、小米奖学金（张天佑、陈雨润）、北京地区优秀毕业生（陈雨润）、北京工业大学优秀毕业生（陈雨润）、百佳毕业生（陈雨润）、优秀硕士学位论文（张辉、陈雨润、王熙贵、单小虎等）、IEEE IC-NIDC国际会议最佳论文奖、CCF大学生区块链技术与创新应用大赛（全国前15%）等奖项。
 
 
 <!-- # 🎖 Honors and Awards
  - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+🎖 Honors and Awards
+获北京市科学技术奖科学技术进步二等奖，北京工业大学立德树人毕业班优秀班主任标兵，北京工业大学“课程思政”教学团队大赛二等奖，北京工业大学优秀课程思政教学案例，北京工业大学立德树人优秀班主任，北京工业大学优秀毕业生，国际会议IEEE IC-NIDC最佳论文奖、中国计算机学会区块链技术与创新应用大赛优胜奖等。
 
 # 💼 Services
 
