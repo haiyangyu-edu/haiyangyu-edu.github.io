@@ -96,7 +96,8 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 <!-- # 🎖 Honors and Awards
  - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-🎖 Honors and Awards
+
+# 🎖 Honors and Awards
 获北京市科学技术奖科学技术进步二等奖，北京工业大学立德树人毕业班优秀班主任标兵，北京工业大学“课程思政”教学团队大赛二等奖，北京工业大学优秀课程思政教学案例，北京工业大学立德树人优秀班主任，北京工业大学优秀毕业生，国际会议IEEE IC-NIDC最佳论文奖、中国计算机学会区块链技术与创新应用大赛优胜奖等。
 
 # 💼 Services
