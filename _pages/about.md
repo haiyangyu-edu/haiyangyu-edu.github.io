@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Prof. Yu is currently working at the School of Computer Science, Beijing University of Technology. His research focuses on artificial intelligence and data security. He received his Ph.D. from Beijing University of Technology in 2019, including a joint Ph.D. training period at the University of Melbourne from 2017 to 2018. He earned his Bachelor’s degree in Computer Science and Technology from Beijing University of Technology in 2013. He currently serves as a registered expert in ISO international standard working groups, an executive committee member of the CCF Blockchain Technical Committee, a member of the Big Data Security and Privacy Computing Technical Committee of the Chinese Information Processing Society of China, and a member of the CCF YOCSEF Headquarters Committee. He is also a youth editorial board member of the Journal of Cybersecurity Science and Blockchain: Research and Applications. He serves as a reviewer/PC member for several top-tier international journals and conferences, including IEEE TIFS, IEEE TDSC, IEEE/ACM TON, IEEE TKDE, IEEE TMC, NeurIPS, ICML, and ICLR.
+Prof. Yu is currently working at the College of Cyberspace Science and Technology, Beijing University of Technology. His research focuses on artificial intelligence, data security, and related areas. He received his Ph.D. degree from Beijing University of Technology in 2019. From 2017 to 2018, he conducted joint doctoral research at the University of Melbourne. He received his B.S. degree in Computer Science and Technology from Beijing University of Technology in 2013. He has received several honors and awards, including the Second Prize of the Beijing Science and Technology Award for Scientific and Technological Progress, the Outstanding Head Teacher Award for Graduating Classes in Moral Education at Beijing University of Technology, the Outstanding Graduate Award of Beijing University of Technology, and the Best Paper Award at IEEE IC-NIDC. He currently serves as a registered expert in an ISO international standards working group, an Executive Committee Member of the CCF Technical Committee on Network and System Security, an Executive Committee Member of the CCF Technical Committee on Blockchain, a committee member of the Technical Committee on Big Data Security and Privacy Computing of the Chinese Information Processing Society of China (CIPS), and a member of the CCF YOCSEF Headquarters Academic Committee. He also serves on the Young Editorial Boards of the Journal of Cybersecurity and Blockchain: Research and Applications. He has served as a reviewer and/or Program Committee member for numerous leading international journals and conferences, including IEEE TIFS, IEEE TDSC, IEEE/ACM TON, IEEE TKDE, IEEE TMC, NeurIPS, ICML, ICLR, AAAI, and WWW.
 
 
-于海阳，副研究员，硕士生导师，任职于北京工业大学计算机学院，专攻人工智能和数据安全等领域研究。2019年毕业于北京工业大学获博士学位，2017年至2018年在墨尔本大学进行博士联合培养，2013年毕业于北京工业大学计算机科学与技术专业获学士学位。现任ISO国际标准工作组注册专家，CCF网络与系统安全专委会执行委员，CCF区块链专委会执行委员，中文信息学会大数据安全与隐私计算专委委员，CCF YOCSEF总部委员，网络空间安全科学学报和Blockchain: Research and Applications期刊青年编委会委员。担任TIFS、TDSC、TON、TKDE、TMC、NIPS、ICML、ICLR、AAAI等多个国际顶级期刊和会议的审稿人和程序委员会委员。近五年，以第一作者/通讯作者累计发表CCF A类、IEEE汇刊在内的高水平期刊会议论文30余篇，包括IEEE TDSC、IEEE TIFS、IEEE TC、IEEE TMC、IEEE TON、IEEE TSC、IWQoS等。
+于海阳，副研究员，硕士生导师，任职于北京工业大学部网络空间安全学院，专攻人工智能和数据安全等领域研究。2019年毕业于北京工业大学获博士学位，2017年至2018年在墨尔本大学进行博士联合培养，2013年毕业于北京工业大学计算机科学与技术专业获学士学位。曾获北京市科学技术奖科技进步二等奖、北京工业大学立德树人毕业班优秀班主任标兵，北京工业大学优秀毕业生，IEEE IC-NIDC最佳论文奖等。现任ISO国际标准工作组注册专家，CCF网络与系统安全专委会执行委员，CCF区块链专委会执行委员，中文信息学会大数据安全与隐私计算专委委员，CCF YOCSEF总部委员，网络空间安全科学学报和Blockchain: Research and Applications期刊青年编委会委员。担任IEEE TIFS、IEEE TDSC、IEEE TON、IEEE TKDE、IEEE TMC、NeurIPS、ICML、ICLR、AAAI、WWW等多个国际顶级期刊和会议的审稿人和程序委员会委员。近五年，以第一作者/通讯作者累计发表CCF A类、IEEE汇刊在内的高水平期刊会议论文30余篇，包括IEEE TDSC、IEEE TIFS、IEEE TC、IEEE TMC、IEEE TON、IEEE TSC、IWQoS等。
 
 # 🎉 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -28,7 +28,7 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 # 👋🏼 Openings
 **2026** 
-- **拟接收辅导博士研究生1~2名、硕士研究生3名，研究方向集中在：大模型安全、联邦安全、区块链和大数据安全等。**
+- **拟接收辅导博士研究生1~2名、硕士研究生3名，研究方向集中在：大语言模型、智能体、联邦学习安全等。**
 
 **长期有效** 
 - **科研助理**：非常欢迎对AI安全、数据安全有兴趣的**研究生**、**本科生**同学加入到我们的实验室！
@@ -67,10 +67,11 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a> Xiaohu Shan^, **<u>Haiyang Yu📧</u>**, Yurun Chen^, Yuwen Chen, Zhen Yang, AMBER: Robust Federated Learning Based on Client Verification[J]. *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026. *CCF-A, SCI-Q1 Top，IF = 8.0*
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2026-blue?style=flat-square"></a> Xiaohu Shan^, **<u>Haiyang Yu📧</u>**, Yurun Chen^, Yuwen Chen, Zhen Yang, AMBER: Robust Federated Learning Based on Client Verification[J]. *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026. *CCF-A, SCI-Q1 Top，IF = 8.0*
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2026-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Yinglong Gao^, Shen Su, Zhen Yang, Yuwen Chen, Shui Yu, iAudit: Toward Efficient Pixel-Level Dynamic Image Auditing in Decentralized Storage[J]. *IEEE Transactions on Information Forensics and Security (TIFS)*, 21: 913-928, 2026. *CCF-A, SCI-Q1 Top，IF = 8.0*
 
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TMC-2026-blue?style=flat-square"></a> Tianyou Zhang^, **<u>Haiyang Yu📧</u>**, Yuwen Chen, Shuo Wang, Zhen Yang, FLAGuard: Efficient Verifiable Federated LoRA of Large Language Models[J]. *IEEE Transactions on Mobile Computing (TMC)*, 2026. *CCF-A, SCI-Q1 Top，IF = 9.2*
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Yurun Chen^, Shen Su, Jian Su, Yuwen Chen, Zhen Yang, DART: Distributed Zero Knowledge Data Auditing with Retrievability for Blockchain-Based Decentralized Storage Networks[J]. *IEEE Transactions on Information Forensics and Security (TIFS)*, 19, 6896-6909, 2025. *CCF-A, SCI-Q1 Top，IF = 8.0*
 
@@ -99,7 +100,7 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 
 # 🎖 Awards of Students
-近年来，指导学生多次获得国家奖学金（张天佑、张博、陈雨润、王熙贵等）、小米特等奖学金（张天佑）、小米奖学金（张天佑、陈雨润）、北京地区优秀毕业生（陈雨润、张天佑）、北京工业大学优秀毕业生（陈雨润、张天佑）、百佳毕业生（陈雨润、张天佑）、优秀硕士学位论文（张辉、陈雨润、高应龙、张天佑、张博、王熙贵、单小虎等）、IEEE IC-NIDC国际会议最佳论文奖、CCF大学生区块链技术与创新应用大赛（全国前15%）等奖项。
+近年来，指导学生多次获得国家奖学金（张天佑、张博、陈雨润、王熙贵等）、小米特等奖学金（张天佑）、小米奖学金（张天佑、陈雨润）、北京地区优秀毕业生（张天佑、陈雨润）、北京工业大学优秀毕业生（张天佑、陈雨润）、百佳毕业生（张天佑、陈雨润）、优秀硕士学位论文（高应龙、张天佑、张博、张辉、陈雨润、王熙贵、单小虎等）、IEEE IC-NIDC国际会议最佳论文奖、CCF大学生区块链技术与创新应用大赛（全国前15%）等奖项。
 
 
 <!-- # 🎖 Honors and Awards
