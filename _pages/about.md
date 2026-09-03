@@ -56,12 +56,21 @@ Prof. Yu is currently working at the School of Computer Science, Beijing Univers
 
 <!-- % -----------2026------------- 
 > **2026**
-
 <a href="" target="_blank"><img src="https://img.shields.io/badge/AAAI-2026-red?style=flat-square"></a>	Z. Dong, C. Li, **<u>Yongjian Deng</u>**, H. Chen &quot;**AIR-DR: Adaptive Image Retargeting with Instance Relocation and Dual-guidance Repainting**&quot;. In *The AAAI Conference on Artificial Intelligence (AAAI)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TMM-2026-blue?style=flat-square"></a>	Q. Zhou, J. Hou, M. Yang, **<u>Yongjian Deng</u>**, Y. Li and J. Xiong, &quot;**Spatially-guided Temporal Aggregation for Robust Event-RGB Optical Flow Estimation**&quot;. In *IEEE Transactions on Multimedia (IEEE TMM)*.
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ACM_TOMM-2025-blue?style=flat-square"></a>	Y. Ding^, B. Yao^, Y. Liu^, H. Chen, D. Ding, Z. Yang, Y. Li and **<u>Yongjian Deng📧</u>**, &quot;**EvSAM: Segment Anything Model with Event-based Assistance**&quot;. In *ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM)*.-->
+
+
+
+
+
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a> Xiaohu Shan^, **<u>Haiyang Yu📧</u>**, Yurun Chen^, Yuwen Chen, Zhen Yang, AMBER: Robust Federated Learning Based on Client Verification[J]. *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026. *CCF-A, SCI-Q1 Top，IF = 8.0*
+
+
+
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IEEE_TIFS-2025-blue?style=flat-square"></a> **<u>Haiyang Yu</u>**, Yurun Chen^, Shen Su, Jian Su, Yuwen Chen, Zhen Yang, DART: Distributed Zero Knowledge Data Auditing with Retrievability for Blockchain-Based Decentralized Storage Networks[J]. *IEEE Transactions on Information Forensics and Security (TIFS)*, 19, 6896-6909, 2025. *CCF-A, SCI-Q1 Top，IF = 8.0*
 
